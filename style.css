@@ -1,0 +1,63 @@
+body {
+  background-color: hsl(233, 47%, 7%);
+  font-size: 15px;
+}
+.container{
+  margin-left: 60px;
+  margin-top:50px;
+}
+
+.text {
+    position: relative;
+  height: 280px;
+  width: 380px;
+  border: none;
+  background-color: hsl(244, 38%, 16%);
+  padding-left: 60px;
+  
+
+  display: inline-block;
+}
+h2 {
+  width: 60%;
+  color: hsl(0, 0%, 100%);
+  font-weight:  400, 700;
+  font-family:sans-serif;
+}
+p {
+  width: 80%;
+  color:hsla(0, 0%, 100%, 0.75);
+  font-size: 13px;
+}
+.table {
+  color: white
+}
+.row {
+  color:hsla(0, 0%, 100%, 0.6);
+  margin-bottom:10px;
+}
+.table1{
+    padding-top: 30px;
+}
+td{
+    padding: 7px;
+}
+.img{
+    height: 280px;
+    width: 440px;
+    display: inline-block;
+    position: relative;
+    top: 121px;
+    right: 6px;
+    background-color:  hsl(277, 64%, 61%);
+   
+}
+.img1{
+    height: 280px;
+    width: 440px; 
+    opacity: 0.6;
+
+}
+.st{
+    color:   hsl(277, 64%, 61%);;
+}
